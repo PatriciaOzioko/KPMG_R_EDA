@@ -1,4 +1,4 @@
-# KPMG_R_EDA
+# KPMG_R_EDA by Forage
 # Customer Targeting and Analysis Project
 
 ## Overview
